@@ -11,5 +11,3 @@ Should include the following sections:
 
 Color Palette:
   Teal, turquoise, pool, light brown, shade of white
-
-Test Sublime Edit
